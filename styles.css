@@ -1,0 +1,47 @@
+img {
+  height: 210px;
+}
+
+body {
+  background-color: #F2D7D9;
+}
+
+label {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  color: #7895B2;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+p {
+  color: #354259;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+li {
+  color: #354259;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+table {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  color: #7895B2;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 2px;
+  border height: thin;
+  border-color: grey;
+  width: 300px;
+}
