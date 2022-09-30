@@ -1,6 +1,9 @@
 How to contribute ?
 
-Add any static elements in HTML or CSS
-Recheck the code
-Recheck your code and push request ( Wrong syntax code can be rejected ) .
-You done with your contribution , Celebrate !!
+1) Add any static elements in HTML or CSS in the index.html or contact.html file
+2) Recheck the code
+3) Recheck your code and push request ( Wrong syntax code can be rejected ) .
+4) You done with your contribution , Celebrate !!
+
+
+
